@@ -29,6 +29,6 @@ Raw (CSV files) on daily Retail stores
 
 ## Architecture Diagram
 
-<" Users/srikanth/Downloads/Git projects/Sales data project/Image May 7, 2025, 06_38_44 PM.png">
+<"Image May 7, 2025, 06_38_44 PM.png">
 
 ## Please click link below to see whole process illustrated and documented step by step
