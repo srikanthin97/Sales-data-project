@@ -29,5 +29,4 @@ Raw (CSV files) on daily Retail stores
 
 ## Architecture Diagram
 
-(images/architecture.png)
-## Please click link below to see whole process illustrated and documented step by step
+![Architecture Diagram](images/architecture.png)
