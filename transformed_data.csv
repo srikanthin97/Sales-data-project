@@ -1,0 +1,3 @@
+order_id,customer_name,customer_email,order_date,product_name,quantity,price
+ORD123,John Doe,johndoe@example.com,03/14/2024,Laptop,1,1200
+ORD123,John Doe,johndoe@example.com,03/14/2024,Mouse,2,25

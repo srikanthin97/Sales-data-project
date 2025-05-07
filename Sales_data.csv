@@ -1,0 +1,6 @@
+Order_id,Product_name,Category,Price,Date,Source,Price_Category
+101,Laptop,Electronics,1201.0,2023-05-12,Amazon,Expensive
+102,Phone,Electronics,800.0,2023-05-13,ebay,Expensive
+103,Shoes,Fashion,50.5,2023-05-14,Amazon,Affordable
+104,Phone,Electronics,1000.5,2023-05-15,walmart,Expensive
+105,Shirt,Fashion,30.0,2023-05-16,ebay,Affordable
