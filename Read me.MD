@@ -45,7 +45,7 @@ Daily retail store sales data (CSV format) combined with order data from MongoDB
 
 Click the link below to see the entire ETL process, architecture explanation, and detailed step-by-step documentation.
 
-👉 **[View Full Documentation](#)** *(case study .docx)*
+👉 **[View Full Documentation](#)** *(https://github.com/srikanthin97/Sales-data-project/blob/main/case%20study%20.docx)*
 
 ---
 
