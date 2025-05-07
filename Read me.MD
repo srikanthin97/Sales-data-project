@@ -29,6 +29,6 @@ Raw (CSV files) on daily Retail stores
 
 ## Architecture Diagram
 
-<Image May 7, 2025, 06_38_44 PM.png>
+<images/architecture.png">
 
 ## Please click link below to see whole process illustrated and documented step by step
